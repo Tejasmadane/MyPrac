@@ -1,3 +1,5 @@
-for i in range(1,10,2):
-
-    print("hello git how are you :",i)
+str1="tejas"
+rev=""
+for char in str1:
+    rev=char+rev
+print(rev)
